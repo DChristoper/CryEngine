@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CryEngine</string>
+    <string name="action_setting">Setting</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="email">Email</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="LoginGet">Log In</string>
+    <string name="LoginPost">Login - Post</string>
+    <string name="App">Log In</string>
+    <string name="LoginStatus">Can\'t find your confirmation email?</string>
+    <string name="LoginRole">Login Role</string>
+    <string name="Status">Not login</string>
+    <string name="Role">Not assigned</string>
+    <string name="get">Get CryEngine</string>
+    <string name="footer">WHY CHOOSE CRYENGINE?</string>
+    <string name="footer2">With CRYENGINE, we have a simple goal: to create the most powerful
+        game engine in the industry, and to give creators all across the globe the tools to
+        harness this power to create world-class gaming, no matter their budget or team size. </string>
+    <string name="method">Forgotten your password?</string>
+    <string name="Choose">Choose method</string>
+    <string name="checkbox">Stay Logged in</string>
+    <string name="credit">New to CRYENGINE? Create Your Account</string>
+    <string name="Main_menu">Main Menu</string>
+    <string name="welcome">THE POWER TO ACHIEVE YOUR VISION</string>
+    <string name="welcome2">The most powerful game development platform is now available to everyone.
+Full source code. All features.</string>
+
+    <string name="enter_name_hint">Enter your name</string>
+    <string name="enter_address_hint">Enter address</string>
+    <string name="enter_phone_hint"> Enter phone</string>
+    <string name="enter_note_hint">Enter note</string>
+    <string name="same_day_messenger_service">same day messenger service</string>
+    <string name="next_day_ground_delivery">next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
